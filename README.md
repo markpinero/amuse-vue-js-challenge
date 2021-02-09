@@ -12,7 +12,7 @@ Do not spend more than 3-4 hours on the challenge.
     - An age gate requiring the user to be older than 21
     - Category page with product cards, filters and sort options
     - Product page with add to cart button and related products
-- Open a Pull Request for the feature branch and request review from `bpleslie` Github user
+- Open a Pull Request for the feature branch and request review from `kenndavila-amuse` and `brandonalmeda` Github users
 
 A sample JSON API response payload is available in this repo for your reference.
 
@@ -21,13 +21,3 @@ implementation of the features listed above.
 
 Note: This challenge is intentionally open-ended. Feel free to get creative and 
 put your spin on an e-commerce experience.
-
-## Stretch Goals
-If you have extra time or want to go above and beyond, the following are 'stretch goals':
-- Responsive design
-- Server Side Rendering
-- Authentication
-- Cart
-- Checkout
-
-
