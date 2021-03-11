@@ -19,7 +19,7 @@ Do not spend more than 2-3 hours on the challenge.
 - A sample JSON API response payload is available in this repo for your reference.
 - All image urls should prefixed with https://res.cloudinary.com/amusenow/w_auto,c_scale/
 - All product urls should be prefixed with https://amuse.com
-
+- More information about Cloudinary transformations is available here https://cloudinary.com/documentation/image_transformations
 
 Your implementation will be judged on design, using VueJS best practices and 
 implementation of the features listed above.
