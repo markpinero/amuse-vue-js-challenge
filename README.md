@@ -1,7 +1,6 @@
 # VueJS Code Challenge
 ## Overview
-Amuse is an e-commerce company targeting the cannabis industry in Los Angeles. Your challenge 
-is to create the most critical part of the conversion funnel: the category and product detail pages.
+Amuse is an e-commerce company targeting the cannabis industry in Los Angeles. 
 
 Do not spend more than 2-3 hours on the challenge.
 
