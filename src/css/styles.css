@@ -1,0 +1,10 @@
+@import "tailwind";
+
+.flow > * + * {
+  margin-top: var(--flow-space, 1rem);
+}
+
+.sticky {
+  position: sticky;
+  top: 0;
+}
